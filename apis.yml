@@ -1,7 +1,12 @@
 aid: ihs
-url: https://raw.githubusercontent.com/api-evangelist/ihs/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ihs/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.ihs.com
+description: >-
+  IHS was a global information and analytics company providing critical insight to
+  customers across industries including aerospace, defense, automotive, chemicals,
+  energy, and financial services before merging with Markit.
