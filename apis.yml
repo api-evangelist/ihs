@@ -22,6 +22,8 @@ url: https://raw.githubusercontent.com/api-evangelist/ihs/refs/heads/main/apis.y
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ihs-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ihsmarkit
   - type: Website
