@@ -24,6 +24,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ihs.png
 tags:
   - Analytics
   - Energy
+  - Financial-Services
+  - Information Services
+  - Legacy
+tags_raw:
+  - Analytics
+  - Energy
   - Financial Services
   - Information Services
   - Legacy
