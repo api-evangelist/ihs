@@ -50,6 +50,11 @@ url: https://raw.githubusercontent.com/api-evangelist/ihs/refs/heads/main/apis.y
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/s-and-p-global/
+    name: S&P Global
+    x-relationship: acquired
+    x-evidence: "IHS merged with Markit in 2016 to form IHS Markit, which was subsequently acquired by S&P Global in 2022."
   - type: DomainSecurity
     url: security/ihs-domain-security.yml
   - type: LinkedIn
