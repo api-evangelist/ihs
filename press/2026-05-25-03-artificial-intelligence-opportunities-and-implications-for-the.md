@@ -1,7 +1,9 @@
 ---
 title: 'Artificial intelligence: opportunities and implications for the ...'
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7322190/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IHS" press release artificial intelligence'
 position: 3
 source: serpapi-google

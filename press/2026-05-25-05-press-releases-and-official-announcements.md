@@ -1,7 +1,9 @@
 ---
 title: Press Releases & Official Announcements
 url: https://isimarkets.com/news/press-releases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IHS" press release artificial intelligence'
 position: 5
 source: serpapi-google

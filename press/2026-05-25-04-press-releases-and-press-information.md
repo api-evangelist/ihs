@@ -1,7 +1,9 @@
 ---
 title: Press Releases & Press Information
 url: https://www.ihs.ac.at/news-and-events/media/press-releases/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IHS" press release artificial intelligence'
 position: 4
 source: serpapi-google
