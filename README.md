@@ -1,4 +1,4 @@
-# IHS (ihs)
+# IHS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,39 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-IHS was a global information and analytics company providing critical insight to customers across industries including aerospace, defense, automotive, chemicals, energy, and financial services. IHS merged with Markit in 2016 to form IHS Markit, which was subsequently acquired by S&P Global in 2022. The legacy `ihs.com` domain now redirects to S&P Global.
+IHS was a global information and analytics company providing critical insight to customers across industries including aerospace, defense, automotive, chemicals, energy, and financial services. IHS merged with Markit in 2016 to form IHS Markit, which was subsequently acquired by S&P Global in 2022. The legacy ihs.com domain now redirects to S&P Global. No public IHS-branded APIs are tracked here; current API offerings live within S&P Global product lines.
 
-This repository tracks APIs, SDKs, and other developer resources associated with IHS and its successor entities.
+**Areas:** Analytics · Energy · Financial Services · Information Services · Legacy
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ihs/refs/heads/main/apis.yml)
+## IHS on APIs.io
 
-## Scope
+Everything profiled for IHS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ihs/](https://apis.io/providers/ihs/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Analytics, Energy, Financial Services, Information Services, Legacy
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+- [Ihs Domain Security](https://apis.io/security/ihs/ihs-domain-security/)
 
-## APIs
+## Where to find this API
 
-No public IHS-branded APIs are tracked here. Current API offerings live within S&P Global product lines (e.g. S&P Global Market Intelligence, Commodity Insights, Mobility) and will be cataloged under their respective S&P Global repositories.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [Website](https://www.spglobal.com/)
 
-- [Website (Successor: S&P Global)](https://www.spglobal.com/)
-- [S&P Global Market Intelligence](https://www.spglobal.com/market-intelligence/en/)
-- [Historical Reference](https://en.wikipedia.org/wiki/IHS_Markit)
+## API Evangelist rating
 
-## Maintainers
+**Kin Score 3.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**FN:** Kin Lane
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-**Email:** kin@apievangelist.com
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ihs/](https://apis.io/providers/ihs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IHS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ihs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
